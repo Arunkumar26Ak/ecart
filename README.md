@@ -1,6 +1,20 @@
-technology used 
+/***************************************
+
+Name : Arunkumar A.
+
+Email : arunanbu.ani97@gmail.com
+
+Developed date: 2022-July-11 10:10 AM 
+
+***************************************/
+
+
+Software requirement :
+
 Back-end :Python - Django (DRF)
+
 Database : MySql
+
 mySql dump file name : commercial_database.sql
 
 # environment  setup
