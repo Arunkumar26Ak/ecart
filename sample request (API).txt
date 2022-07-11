@@ -1,5 +1,5 @@
 Create_user request :
-Post man url : http://localhost:8000/user 
+url : http://localhost:8000/user 
 
 request : 
 
@@ -14,7 +14,7 @@ request :
 }
 
 ................................................................
-
+url : http://localhost:8000/product 
 
 Add product to cart:
 
@@ -27,7 +27,8 @@ Add product to cart:
   }
 }
 
-.......................................
+..............................................................
+url : http://localhost:8000/product
 
 Place card order :
 
